@@ -12,3 +12,5 @@ Compacted from older log entries. Persistent signals and recurring interests.
 
 Max ~20 entries. When full, compact the oldest entries into Themes above, then remove them.
 
+- [2026-02-22] User: Repo created — audit git history vs work requested, verify outsourced dev work was done
+- [2026-02-22] User: Future idea — platform for ranked/approved workers who consistently deliver above expectation

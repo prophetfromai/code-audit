@@ -1,10 +1,10 @@
-# {Project Name}
+# Code Audit
 
 @/Users/qualitydrivensoftwareltd/git/claude.md/CLAUDE.md
 
 ## What This Project Is
 
-{One sentence: what it does and who it's for.}
+A tool that analyses git history against work requests so business owners can verify whether outsourced development work was actually done — starting with freelance devs (Fiverr etc).
 
 ## Commands
 
@@ -33,4 +33,4 @@ For the portfolio-level monologue (cross-product ideas and themes), see `/Users/
 
 ## Project-Specific Rules
 
-{Architecture decisions, conventions, or constraints that only apply to this project. Delete this section if there are none yet — add rules as they emerge.}
+None yet — add rules as they emerge.
